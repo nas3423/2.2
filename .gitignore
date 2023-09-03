@@ -1,2 +1,3 @@
 testignore.md
 provider.tf
+.terraform
